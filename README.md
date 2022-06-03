@@ -1,2 +1,2 @@
 # jack
-if this doesnt work ill cry
+omfg plz work
