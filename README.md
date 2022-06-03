@@ -1,3 +1,3 @@
 # jack
-jack read me!!!
-changes 06/03
+changing jack readme
+changes made
