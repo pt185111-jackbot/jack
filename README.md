@@ -1,2 +1,2 @@
 # jack
-checking updated changes!
+checking for updated changes
