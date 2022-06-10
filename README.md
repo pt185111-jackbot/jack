@@ -1,4 +1,2 @@
 # jack
-checking GCP
-testing date format
-PLS WORK
+populating database
