@@ -1,4 +1,2 @@
 # jack
-checking changes
-making changes
-
+changes made
